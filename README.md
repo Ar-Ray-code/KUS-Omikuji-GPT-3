@@ -1,6 +1,8 @@
 # KUS-Omikuji-GPT3
 クソみくじの2022版です。GPT-3を使用する関係上、OpenAIのAPIキーが必須になります。
 
+お賽銭はこちらから→ [![](https://user-images.githubusercontent.com/4967343/89290226-7660bb00-d650-11ea-9c30-3e4fc8502ad5.png)](https://github.com/sponsors/Ar-Ray-code)
+
 ![](omikuji-img.png)
 
 ```bash
